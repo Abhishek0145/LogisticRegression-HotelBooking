@@ -1,4 +1,4 @@
-#Logistic Regression for Hotel Booking Cancellations
+##Logistic Regression for Hotel Booking Cancellations
 
 This Jupyter Notebook contains a Python script for analyzing and predicting hotel booking cancellations using logistic regression. It explores a dataset related to hotel bookings and provides a step-by-step guide on data preprocessing, model building, and evaluation.
 
